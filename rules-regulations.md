@@ -1,5 +1,7 @@
 # Rules
 
+- Check timings, venues and instructions.
+
 ## Must have
 
 - Use real-time or dynamic data sources, and avoid relying on static JSON unless it’s for initial prototyping.
