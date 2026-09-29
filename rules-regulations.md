@@ -1,106 +1,54 @@
-# Rules
+# Odoo x LDCE Ahmedabad Hackathon 2026: rules and FAQs
 
-- Check timings, venues and instructions.
+These notes summarize the organizer's information for the final round on 3-4 October 2026. See the [event overview](hackathons/odooxldce-2026-hackathon.md) and the [original FAQ (PDF)](<FAQs - Odoo x LDCE Hackathon 2026.pdf>); follow organizer updates if details change.
 
-# FAQs 
+## Before you go
 
-Odoo x LDCE Ahmedabad Hackathon 2026
-(Final Round: 3 - 4 October 2026)
+- **Venue:** LDCE (Lalbhai Dalpatbhai College of Engineering), opposite Gujarat University, Navrangpura, Ahmedabad, Gujarat 380015.
+- **ID:** Bring an original Aadhaar card; a virtual copy is allowed for verification.
+- **Equipment:** Bring your own laptop and necessary devices. Internet connectivity and charging points will be available.
+- **Travel:** Arrange your own transportation. No travel allowance or reimbursement will be provided.
+- **Guests:** Only selected final-round participants may enter. Companions, mentors, and guests are not permitted.
+- **Fees:** There are no registration or participation fees.
 
-Frequently Asked Questions
+## Schedule
 
-- What is the location for the hackathon?
+| Day | Time | Activity |
+| --- | --- | --- |
+| Day 1 (3 Oct) | 7:30-9:00 AM | Registration |
+| Day 1-2 (3-4 Oct) | 10:00 AM-10:00 AM | 24-hour coding period |
+| Day 2 (4 Oct) | 10:00 AM-1:00 PM | Lunch break |
+| Day 2 (4 Oct) | 1:00-5:00 PM | Presentations and valedictory |
 
-  LDCE - Lalbhai Dalpatbhai College of Engineering, Opposite Gujarat University, Navrangpura, Ahmedabad, Gujarat 380015.
+The coding period starts at 10:00 AM on Day 1. Participants should arrange travel after 5:00 PM on Day 2, following the valedictory.
 
-- What documents do I need to bring for verification?
+## Participation and venue rules
 
-  An original Aadhar card is required for verification (virtual copy allowed) to enter the hackathon venue.
+- Participants must remain at the venue throughout the 24-hour coding period. Anyone who leaves cannot re-enter and will not be entitled to a participation certificate.
+- If a team member is unavailable, the remaining teammates may still participate; team-member replacements are not permitted.
+- Participation certificates are for final-round participants who attend and complete the final round in person.
+- Rest areas (not hostel rooms) will be available for short breaks overnight. Participants are responsible for their belongings.
+- Vegetarian meals, including Jain/Swaminarayan options, will be provided from breakfast on Day 1 through lunch on Day 2.
+- Misconduct may result in immediate disqualification. Chewing gum, tobacco, cigarettes, and alcoholic products are prohibited.
 
-- What about systems or devices?
+## Competition
 
-  Participants are required to bring their own laptops and necessary devices for the hackathon. Internet connectivity and charging points will be provided at the venue.
+- New problem statements will be shared at the start of Day 1 and will be different from and unrelated to those in the virtual round.
+- The final-round Odoo reviewer will connect with each team at the venue. This reviewer will differ from the virtual-round reviewer.
+- Winners will be determined from multiple reviews by Odoo reviewers and the jury during the 24-hour period. The jury's decision is final; objections or reconsideration will not be entertained.
 
-- What about accommodation?
+## Project-building guidelines
 
-  During the hackathon, rest areas will be created (not hostel rooms), to take a short break and rest at night time. Also, participants are solely responsible for their belongings.
+### Must have
 
-- What about food?
+- Use real-time or dynamic data sources; use static JSON only for initial prototyping.
+- Build a responsive, clean interface with a consistent visual system.
+- Validate user input robustly and provide intuitive navigation.
+- Use version control collaboratively; the repository should not be managed by only one team member.
 
-  All participants will be provided with vegetarian meals (Jain / Swaminarayan food available) at no cost during the hackathon. Starting from Breakfast on Day 01 to Lunch on Day 02.
+### Nice to have
 
-- What about transportation?
-
-  Participants are expected to manage their own transportation. No travel allowance or reimbursement will be provided.
-
-- What if my team member(s) are not available?
-
-  If your team members are unavailable, remaining teammates may still participate. However, team member replacements will not be permitted under any circumstances.
-
-  Only final round participants attending and completing the final round physically, would be entitled participation certificates.
-
-- What is the schedule for the Final Round?
-
-  Day 1: 7:30 AM – 9:00 AM — Registration
-
-  Day 1 & 2: 10:00 AM – 10:00 AM — 24-hour Coding Time
-
-  Day 2: 10:00 AM – 1:00 PM — Lunch Break
-
-  Day 2: 1:00 PM – 5:00 PM — Presentations followed by Valedictory
-
-- Do I need to pay any charges for anything?
-
-  There are no registration / participation fees at any stage of the hackathon.
-
-- Can I bring my mentor/parents/guests?
-
-  No. Only participants selected for the final round will be allowed to enter the premises.
-
-  Companions, mentors, or guests will not be permitted.
-
-- Can you clarify the problem statement?
-
-  New problem statements will be provided on the day 1 at the beginning of the hackathon. These will be entirely different and unrelated to the previous virtual round.
-
-- Who will be my Odoo reviewer for the final round?
-
-  Your team’s Odoo reviewer for the final round will connect with you directly at the finale venue.
-
-- This reviewer will be different from the one assigned during the virtual round.
-
-  Can I leave the venue at night and come back again?
-
-  During the 24 hour coding period (10:00 AM to 10:00 AM), participants are not allowed to leave the venue under any circumstances. If any participant chooses to leave will not entitle a    certificate of participation, re-entry will not be permitted.
-
-  All participants must remain at the venue for 24 hours of coding time. Kindly make your travel arrangements only after 5:00 pm on Day 02 after valedictory.
-
-- Are there any restrictions during the hackathon?
-
-  Participants will be immediately disqualified for any form of misbehaviour or interdisciplinary conduct. Chewing gum, tobacco, cigarettes and alcoholic products are strictly prohibited.
-
-- How will the winners be decided?
-
-  Winners will be determined based on multiple reviews by Odoo reviewers and the jury over the 24 hour period. Final decisions will be based on the team’s overall performance and reviewer   feedback. No reconsideration or objections will be entertained. The jury’s decision will be final.
-
-## Must have
-
-- Use real-time or dynamic data sources, and avoid relying on static JSON unless it’s for initial prototyping.
-
-- Create a responsive and clean UI (Consistent color scheme and layout).
-
-- Validate user input robustly.
-
-- Use intuitive navigation with proper menu placement and spacing.
-
-- Use version control (Git) properly; one member managing the repo is not enough.
-
-## Nice to have
-
-- Ability to design backend APIs, model data, and set up a local database.
-
-- Understand AI/code snippets thoroughly before using them; don’t blindly copy-paste without adapting them to your project.
-
-- Plan for offline or local solutions and don’t rely entirely on internet connectivity or cloud-based tools.
-
-- Use trendy technologies only if they add real value to your project.
+- Design backend APIs, model data, and set up a local database.
+- Understand and adapt AI-generated or copied code instead of using it blindly.
+- Plan for offline or local workflows rather than relying entirely on internet connectivity or cloud services.
+- Choose technologies for their usefulness, not just because they are trendy.
