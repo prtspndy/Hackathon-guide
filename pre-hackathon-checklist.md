@@ -1,4 +1,4 @@
-# Pre-hackathon checklist
+# Pre-hackathon checklist - OdooXLDCE 2026
 
 Review these items before each event. Event-specific dates, locations, schedules, and requirements are listed in the event notes and source materials.
 
